@@ -30,19 +30,20 @@ próprias taglibs
 - Possuem a extensão .tag
 - Estão localizados no diretório WEB-INF/tags
 
-!ALT(01)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/01.JPG)
+
 
 ## Usando um Tag File
 
-!ALT(02)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/02.JPG)
 
 ## Passando Atributos para Tag Files
 
-!ALT(03)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/03.JPG)
 
 ## Informações no Corpo das Tags
 
-!ALT(04)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/04.JPG)
 
 ## Tag Handlers
 
@@ -56,32 +57,32 @@ sobrescreve o método doTag()
 
 ## Criando um Tag Handler
 
-!ALT(05)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/05.JPG)
 
 ## Configurando o Tag Handler
 
 - A configuração é feita em um arquivo .tld
 (tag library descriptor), dentro de WEB-INF
 
-!ALT(06)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/06.JPG)
 
 ## Usando o Tag Handler
 
-!ALT(07)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/07.JPG)
 
 ## Tag Handler e o Corpo da Tag
 
-!ALT(08)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/08.JPG)
 
 ## Mais Sobre Configurações
 
 - Atributo das tags: rtexprvalue
 
-!ALT(09)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/9.JPG)
 
 - Atributo do corpo das tags: body-content
 
-!ALT(10)
+![diagram](https://github.com/740fernando/projeto-taglib-servlet/blob/master/assets/10.JPG)
 
 
 
